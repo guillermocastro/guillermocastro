@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Global Warming and analysis of new economical models to replace the old ones.
 - 🌱 I’m currently learning Blazor, Azure, powerShell
 - 💞️ I’m looking to collaborate on research of new economical models to have a soft transition to sustainable economy.
-- 📫 How to reach me. my website is https://www.valkian.vk
+- 📫 How to reach me. my website is https://www.valkian.eu
 
 
 
